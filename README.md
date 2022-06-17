@@ -1,2 +1,2 @@
-# imagestore
+# image store
 image
