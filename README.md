@@ -1,2 +1,2 @@
 # image store
-image
+typora图床，用于记笔记。
